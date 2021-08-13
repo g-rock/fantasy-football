@@ -16,4 +16,4 @@
 
 ### Helpul links
 * [last year draft](/2020/draft_results.pdf)
-* [overall rankings](overall_rankings.pdf)
+* [overall player rankings for this year's draft](overall_rankings.pdf)
