@@ -1,4 +1,11 @@
-## 2020 league rules
+## 2020
+
+## Draft
+
+### Time and place
+* 09/03/2020 on computers
+
+### Rules
 * Salary cap draft
 * Starting budget is $200
 * Your keeper subtracts from your starting budget:
